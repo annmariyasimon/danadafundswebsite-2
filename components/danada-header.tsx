@@ -14,7 +14,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
             <img 
-              src="/images/danada-20logo.jpeg" 
+              src="./danadalogo.jpeg" 
               alt="Danada Funds"
               className="h-10 w-auto"
             />
